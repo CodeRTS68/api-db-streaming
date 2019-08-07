@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stram",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "other streams",
+      "description": "mangaw mancayy",
+      "id": 2
+    },
+    {
+      "title": "reuse",
+      "description": "edit",
+      "id": 6
+    },
+    {
+      "title": "amel",
+      "description": "jamet",
+      "userId": "103318978267170776930",
+      "id": 7
+    }
+  ]
+}
